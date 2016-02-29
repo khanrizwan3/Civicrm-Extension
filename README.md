@@ -11,4 +11,7 @@ The tab should show the following items below:
 6. Target amount.
 7. Edit Page link.
 
-You can see the working demo here: http://51.254.246.243/demo
+You can see the working demo here: http://51.254.246.243/~hussain/demo/drupal/index.php?q=civicrm/pc
+
+User : admin
+Pass: admin123
