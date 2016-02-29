@@ -11,4 +11,4 @@ The tab should show the following items below:
 6. Target amount.
 7. Edit Page link.
 
-You can see the working demo here: XYZ.com
+You can see the working demo here: http://51.254.246.243/demo
